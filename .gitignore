@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Composer
+/vendor/
+
+# Writable
+/writable/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
